@@ -4,6 +4,15 @@ A while back, I found this [excellent post](http://jasonrudolph.com/blog/2011/08
 by my colleague @jasonrudolph. I'm finally going to tackle this because I've got a little bit of
 non-work time right now. Follow along with my unedited and likely embarrassing approach to learning.
 
+## A guide on my journey
+
+* I will be digging into everything I'm not completely convinced I could explain without fault
+  to a co-worker, colleague, friend, or newbie. Thus, you'll likely see items in the "Digest"
+  lists that make you question if I know anything at all. I'm taking some great advice from
+  @r00k and I'm gonna say "I don't know that" when I only have a rough idea about something.
+  This will no doubt slow my journey but the goal here is to *understand* as much as possible.
+  I don't want to leave this experience with a bunch of "I sort of know that"-s.
+
 **Learn a variety of [programming paradigms](http://en.wikipedia.org/wiki/Programming_paradigm "Programming paradigm - Wikipedia"):**
 
 * [Write a program in assembly language](assembly-language/README.md)
