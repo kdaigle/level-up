@@ -1,3 +1,9 @@
+# Level Up
+
+A while back, I found this [excellent post](http://jasonrudolph.com/blog/2011/08/09/programming-achievements-how-to-level-up-as-a-developer/)
+by my colleague @jasonrudolph. I'm finally going to tackle this because I've got a little bit of
+non-work time right now. Follow along with my unedited and likely embarrassing approach to learning.
+
 **Learn a variety of [programming paradigms](http://en.wikipedia.org/wiki/Programming_paradigm "Programming paradigm - Wikipedia"):**
 
 * [Write a program in assembly language](assembly-language/README.md)
